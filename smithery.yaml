@@ -1,0 +1,12 @@
+# Smithery configuration file: https://smithery.ai/docs/config
+startCommand:
+  type: stdio
+configSchema:
+  type: object
+  required: []
+  properties: {}
+commandFunction: |-
+  (config) => ({
+    command: 'npx',
+    args: ['-y', 'mcp-remote', 'https://khaugully.app/mcp']
+  })
