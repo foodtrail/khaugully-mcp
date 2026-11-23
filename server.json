@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "app.khaugully/khaugully",
+  "title": "Khau Gully — Dish-First Food Ratings & Walking Trails",
+  "description": "Dish-first food ratings (0–10) & 40+ curated walking food trails across 17 global cities.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/foodtrail/khaugully-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://khaugully.app/developers",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://khaugully.app/mcp"
+    }
+  ]
+}
