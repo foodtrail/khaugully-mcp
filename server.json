@@ -3,11 +3,12 @@
   "name": "app.khaugully/khaugully",
   "title": "Khau Gully — Dish-First Food Ratings & Walking Trails",
   "description": "Dish-first food ratings (0–10) & 40+ curated walking food trails across 17 global cities.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "icons": [
     {
-      "src": "https://khaugully.app/3D_app_icon_letter_K_2K_20261024124115.jpg",
-      "mimeType": "image/jpeg"
+      "src": "https://khaugully.app/icon_1024.png",
+      "mimeType": "image/png",
+      "sizes": ["1024x1024"]
     }
   ],
   "repository": {
