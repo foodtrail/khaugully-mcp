@@ -5,6 +5,7 @@ Official [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server
 Connect your AI assistants (Claude, Cursor, Windsurf, custom agents) directly to verified, street-by-street food trails, dish scores, and iOS turn-by-turn navigation across **17 global culinary capitals**.
 
 [![Smithery](https://smithery.ai/badge/@foodtrail/khaugully-mcp)](https://smithery.ai/server/@foodtrail/khaugully-mcp)
+[![mcptry](https://mcptry.com/badge/app.khaugully/khaugully)](https://mcptry.com/servers/app.khaugully/khaugully)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/MCP-2.0-blue.svg)](https://modelcontextprotocol.io)
 
